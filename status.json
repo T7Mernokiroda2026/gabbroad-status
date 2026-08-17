@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.14.3",
-  "message_id": 2,
+  "latest_version": "2.14.5",
+  "message_id": 3,
   "title": "Elérhető a legfrissebb verzió, frissítésért keress minket",
-  "body": "ide mit írjak?",
-  "severity": ""
+  "body": "Jelenlegi kiadás: v2.14.5. A frissítéshez új aktiváló kód szükséges.",
+  "severity": "info"
 }
