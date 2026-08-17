@@ -1,7 +1,7 @@
 {
   "latest_version": "2.14.5",
-  "message_id": 3,
-  "title": "Elérhető a legfrissebb verzió, frissítésért keress minket",
-  "body": "Jelenlegi kiadás: v2.14.5. A frissítéshez új aktiváló kód szükséges.",
-  "severity": "info"
+  "message_id": 4,
+  "title": "Elérhető a legfrissebb verzió",
+  "body": "A GabbRoad v2.14.5 elkészült. A frissítéshez új aktiváló kód szükséges: írj a megszokott elérhetőségen, és küldöm. Az eszköz azonosító kódot a telepítés után az aktiválási képernyőn találod.",
+  "severity": "warning"
 }
