@@ -1,6 +1,12 @@
 {
-  "sorszam": 8,
-  "kiadva": "2026-09-10T20:01:49Z",
-  "demok": [],
-  "alairas": "MF+GQYp+kXbdQWmYdMFryIEeCKUeTJkCxRUGZOsXy4QMrU4fwylZrdXUXBQIffvXy9Lsfa32E0RrhOK/zzlk3A=="
+  "sorszam": 9,
+  "kiadva": "2026-09-11T08:33:28Z",
+  "demok": [
+    {
+      "reg": "ZVPWRFSOSZOSQ4XX",
+      "nap": 7,
+      "hatarido": "2026-09-25T08:33:28Z"
+    }
+  ],
+  "alairas": "PIQw9df+lxCNPZg7xYPL3Xn1yidwNDqwVjI5v4DsuzcpP3EoIRpp3KgBG459n4m6xEmc7RNNhyR1Qi4JESVK/Q=="
 }
