@@ -1,11 +1,10 @@
 {
-  "sorszam": 10,
-  "kiadva": "2026-09-15T11:43:10Z",
+  "sorszam": 11,
+  "kiadva": "2026-09-22T05:57:53Z",
   "demok": [
     {
       "reg": "ZVPWRFSOSZOSQ4XX",
-      "nap": 7,
-      "hatarido": "2026-09-25T08:33:28Z"
+      "lejar": "2026-09-29T05:57:53Z"
     },
     {
       "reg": "7Z5E6VTOV2P4BGWE",
@@ -13,5 +12,5 @@
       "hatarido": "2026-09-29T11:43:10Z"
     }
   ],
-  "alairas": "QOJ2MHVpgQPDyaVMZ3xE3i7YIovU3PqRTDYbPx8DKfkeByANx1ImKacCXTuofJ034+ua+2cPzriJCBIjl88U2Q=="
+  "alairas": "QS+b0ZOp3JEyBkKwz+yTsWLLDoPjRDEJHSbo9C1Sj9ofMe6dTJ6AqP0aEXE0utxr62Ubvv9BrUSIxKd8P3ZE/Q=="
 }
